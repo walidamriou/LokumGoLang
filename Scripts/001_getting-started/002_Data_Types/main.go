@@ -8,6 +8,7 @@ https://lokumgolang.walidamriou.com
 How to use:
 - To run the program use go run:
 $ go run data_types.go
+var0: int, 8
 bool var1: bool, 1
 uint8 var2: uint8, 1
 uint16 var3: uint16, 2
@@ -37,6 +38,7 @@ data_types  data_types.go
 
 - To execute the built binary after build it use ./helloworld:
 $ ./data_types
+var0: int, 8
 bool var1: bool, 1
 uint8 var2: uint8, 1
 uint16 var3: uint16, 2
