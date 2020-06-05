@@ -8,8 +8,8 @@ https://lokumgolang.walidamriou.com
 How to use:
 - To run the program use go run:
 $ go run main.go
-hello to world of Go Language!
-You know that 1+1 is: 2
+The Pi number is 3.14
+You know? the world word in chinese is: 世界
 
 - To build it to binaries. use go build:
 $ go build main.go
@@ -18,8 +18,8 @@ main  main.go
 
 - To execute the built binary after build it use ./helloworld:
 $ ./main
-hello to world of Go Language!
-You know that 1+1 is: 2
+The Pi number is 3.14
+You know? the world word in chinese is: 世界
 ----------
 */
 
