@@ -39,6 +39,13 @@ The format 'verbs' are derived from C's but are simpler.
 import "fmt"
 
 const Pi = 3.14
+const const1 = 55         // decimal 
+const const2 = 0124       // octal 
+const const3 = 0x6c       // hexadecimal 
+const const4 = 50         // int 
+const const5 = 10u        // unsigned int 
+const const6 = 20l        // long 
+const const7 = 20ul       // unsigned long 
 
 func main() {
 	fmt.Println("The Pi number is", Pi)
