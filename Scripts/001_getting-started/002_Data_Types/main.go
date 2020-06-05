@@ -124,6 +124,9 @@ import (
 )
 
 func main() {
+	var0 := 50 //var wihout type
+	fmt.Printf("var0: %T, %d\n", var0, unsafe.Sizeof(var0))
+
 	var var1 bool
 	fmt.Printf("bool var1: %T, %d\n", var1, unsafe.Sizeof(var1))
 
