@@ -177,4 +177,7 @@ func main() {
 	var var19 string
 	fmt.Printf("string var19: %T, %d\n", var19, unsafe.Sizeof(var19))
 
+	var var20, var21 string
+	fmt.Printf("string var20: %T, %d\n", var20, unsafe.Sizeof(var20))
+	fmt.Printf("string var21: %T, %d\n", var21, unsafe.Sizeof(var21))
 }
