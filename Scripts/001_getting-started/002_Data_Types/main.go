@@ -27,6 +27,8 @@ uint var16: uint, 8
 int var17: int, 8
 uintptr var18: uintptr, 8
 string var19: string, 16
+string var20: string, 16
+string var21: string, 16
 
 - To build it to binaries. use go build:
 $ go build data_types.go
@@ -54,6 +56,8 @@ uint var16: uint, 8
 int var17: int, 8
 uintptr var18: uintptr, 8
 string var19: string, 16
+string var20: string, 16
+string var21: string, 16
 ----------
 The types in Go is:
 - Boolean types
