@@ -1,0 +1,31 @@
+/*
+Lokum GoLang
+Learn Go Programming Language with small programs examples
+----------
+by Walid Amriou
+https://lokumgolang.walidamriou.com
+----------
+How to use:
+- To run the program use go run:
+$ go run helloworld.go
+hello to world of Go Language!
+
+- To build it to binaries. use go build:
+$ go build helloworld.go
+$ ls
+helloworld  helloworld.go
+
+- To execute the built binary after build it use ./helloworld:
+$ ./helloworld
+hello to world of Go Language!
+----------
+*/
+
+// The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library. 
+package main
+// Package fmt implements formatted I/O with functions analogous to C's printf and scanf. The format 'verbs' are derived from C's but are simpler.
+import "fmt"
+
+func main() {
+    fmt.Println("hello to world of Go Language!")
+}
