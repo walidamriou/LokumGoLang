@@ -50,7 +50,7 @@ const const7 = 20ul       // unsigned long
 func main() {
 	fmt.Println("The Pi number is", Pi)
 
-	const World = "世界"
+	const World = "世界" //Go supports UTF-8 by default
 
 	fmt.Println("You are know? the world word in chinese is:", World)
 }
