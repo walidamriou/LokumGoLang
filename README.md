@@ -6,7 +6,7 @@ Go is a statically typed and compiled programming language, designed at Google b
 ### Scripts: 
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
-- 002 Variables  
+- 002 Variables :heavy_check_mark:    
 - 003 Constants  
 - 004 Data types  
   - 001 Boolean  
