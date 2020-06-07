@@ -2,7 +2,7 @@
 To Learn Go Programming Language with small programs examples
 
 ### Scripts: 
-* 001 Getting Started  
+* __001 Getting Started__  
 - 001 Hello World  
 - 002 Variables  
 - 003 Constants  
@@ -42,7 +42,7 @@ To Learn Go Programming Language with small programs examples
   - 001 Decleration   
   - 002 Embedded one to other  
   - 003 Embedded types  
-* 002 Object Oriented  
+* __002 Object Oriented__
 - 001 Methodes  
 - 002 Custom data types  
 - 003 Use pointer as receiver  
