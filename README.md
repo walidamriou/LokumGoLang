@@ -13,11 +13,11 @@ To Learn Go Programming Language with small programs examples
   - 004 Numerical Complex  
   - 005 String  
   - 006 Error  
-- 005 005 Define by group  
-- 006 006 iota enumerate   
-- 007 007 Array  
-- 008 008 Slice  
-- 009 009 Map  
+- 005 Define by group  
+- 006 iota enumerate   
+- 007 Array  
+- 008 Slice  
+- 009 Map  
 - 010 New  
 - 011 Control Statements     
   - 001 If  
