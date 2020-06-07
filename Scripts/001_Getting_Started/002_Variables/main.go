@@ -23,7 +23,7 @@ var varA int = 15
 // define four variables type int
 var var1, var2, var3, var4 int
 
-// define four variables type int and with valures
+// define four variables type int and with values
 // varB=10 ; varC=20 ; varD=30 ; varE=40
 var varB, varC, varD, varE = 10, 20, 30, 40
 
@@ -37,14 +37,15 @@ var varAA = varA
 var varBB, varCC = varB, 60
 
 func main() {
-	// any variable define here is local variable
-	// You can't define a local variable without use it.
-	// If define a local variable without use it the compiler return "varname declared and not used"
+	// Any variable define here is a local variable
+
+	// You can't define a local variable and not use it.
+	// If you define a local variable without using it the compiler returns "varname declared and not used"
 
 	// define the value of var0
 	var0 = 100
 
-	// change varAA valure from 15 to 500
+	// change varAA value from 15 to 500
 	varAA = 500
 
 	// define four variables without type
@@ -64,7 +65,7 @@ func main() {
 	// here we create a variable without name and ignore it :D
 	_ = varAA
 
-	// We will print the valures of the four variables varB, varC, varD, varE
+	// We will print the values of the four variables varB, varC, varD, varE
 	fmt.Printf("varB=%d ,varC=%d ,varD=%d ,varE=%d \n", varB, varC, varD, varE)
 
 }
