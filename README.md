@@ -68,4 +68,7 @@ https://lokumgolang.walidamriou.com/
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
 :red_circle: Email:  contact [at] walidamriou [dot] com    
 
+### Don't forgate there are more notes in wiki: 
+https://github.com/walidamriou/LokumGoLang/wiki
+
 
