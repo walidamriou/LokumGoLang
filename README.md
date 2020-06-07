@@ -60,3 +60,6 @@ https://lokumgolang.walidamriou.com/
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
 :red_circle: Email:  contact [at] walidamriou [dot] com    
 
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/walidamriou/LokumGoLang/blob/master/img/anim.png">
+</p>
