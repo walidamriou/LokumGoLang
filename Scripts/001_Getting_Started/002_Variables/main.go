@@ -52,10 +52,15 @@ func main() {
 	// but you can't run the last line without error because you can't declared variable here
 	// without use it
 
-	// example of blank variable, here the divide return quotient and remainder
-	// but we don't need the quotient so we use _ to ignore it
+	/*
+	 Example of blank variable, here the divide return quotient and remainder
+	 but we don't need the quotient so we use _ to ignore it
+	 In other lang you need to declared a variable to recieve the quotient and declared a
+	 variable mean you devlared a memory space. you don't need here quatient so you don't
+	 need to save memory space for it, so just use blank variable to recieve it. */
 	//_, remainder := divide(15, 4)
 	// to use divide you need to define it, but here just to know what mean of blank variable
+
 	// here we create a variable without name and ignore it :D
 	_ = varAA
 
