@@ -12,7 +12,7 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables :heavy_check_mark:    
-- 003 Constants  
+- 003 Constants :heavy_check_mark:    
 - 004 Data types  
   - 001 Boolean  
   - 002 Numerical Integers  
