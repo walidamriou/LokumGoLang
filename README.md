@@ -4,7 +4,8 @@ To Learn Go Programming Language with small programs examples
 Go is a statically typed and compiled programming language, designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Golang (Go) is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
 ### Examples: 
-This mark :heavy_check_mark: mean the example is available. 
+This mark :heavy_check_mark: mean the example is available.  
+The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/master/Examples
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables :heavy_check_mark:    
