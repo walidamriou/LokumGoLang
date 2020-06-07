@@ -6,6 +6,8 @@ Go is a statically typed and compiled programming language, designed at Google b
 ### Examples: 
 This mark :heavy_check_mark: mean the example is available.  
 The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/master/Scripts  
+If there are any issues in the scripts of the examples write a issue in: [issues](https://github.com/walidamriou/LokumGoLang/issues "issues")   
+
 
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
