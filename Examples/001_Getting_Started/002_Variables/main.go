@@ -23,9 +23,6 @@ var varA int = 15
 // define four variables type int
 var var1, var2, var3, var4 int
 
-// define four variables without type
-var var11, var22, var33, var44 int
-
 // define four variables type int and with valures
 // varB=10 ; varC=20 ; varD=30 ; varE=40
 var varB, varC, varD, varE = 10, 20, 30, 40
@@ -49,6 +46,11 @@ func main() {
 
 	// change varAA valure from 15 to 500
 	varAA = 500
+
+	// define four variables without type
+	// var11, var22, var33, var44 := 1, 2, 1, 5
+	// but you can't run the last line without error because you can't declared variable here
+	// without use it
 
 	// example of blank variable, here the divide return quotient and remainder
 	// but we don't need the quotient so we use _ to ignore it
