@@ -55,3 +55,8 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 
 ### Website:  
 https://lokumgolang.walidamriou.com/
+### If you need any help or informations:
+Facebook: https://www.facebook.com/walidamriou/
+Twitter: https://twitter.com/walidamriou
+Email: contact [at] walidamriou [dot] com
+
