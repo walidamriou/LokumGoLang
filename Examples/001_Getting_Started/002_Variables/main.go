@@ -13,7 +13,7 @@ import "fmt"
 
 // any variable define here is global variable
 
-// define with "var0" as name and int as type
+// define "var0" with int type
 var var0 int
 
 // define variable with name "varA", type int and value 15
