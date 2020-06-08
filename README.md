@@ -12,7 +12,7 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables :heavy_check_mark:    
-- 003 Constants  
+- 003 Constants :heavy_check_mark:    
 - 004 Data types  
   - 001 Boolean  
   - 002 Numerical Integers  
@@ -55,6 +55,10 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 - 003 Use pointer as receiver  
 - 004 Inhertance of method  
 ...
+* __003 web technologies__
+- 001 Basic web server  
+- 002 HTTP methods  
+  - 001 POST and GET :heavy_check_mark:   
 
 ### Website of the project:  
 https://lokumgolang.walidamriou.com/
@@ -67,5 +71,8 @@ https://lokumgolang.walidamriou.com/
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
 :red_circle: Email:  contact [at] walidamriou [dot] com    
+
+Don't forget there are more notes in the wiki:
+https://github.com/walidamriou/LokumGoLang/wiki
 
 
