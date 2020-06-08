@@ -59,7 +59,7 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 - 001 Basic web server  
 - 002 HTTP methods  
   - 001 POST and GET :heavy_check_mark:   
-
+- 003 Prase html file :heavy_check_mark:  
 ### Website of the project:  
 https://lokumgolang.walidamriou.com/
 
