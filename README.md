@@ -55,6 +55,10 @@ The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/mast
 - 003 Use pointer as receiver  
 - 004 Inhertance of method  
 ...
+* __003 web technologies__
+- 001 Basic web server  
+- 002 HTTP methods  
+  - 001 POST and GET :heavy_check_mark:   
 
 ### Website of the project:  
 https://lokumgolang.walidamriou.com/
