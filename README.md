@@ -5,7 +5,6 @@ Go is a statically typed and compiled programming language, designed at Google b
 
 ### Examples: 
 This mark :heavy_check_mark: mean the example is available.  
-The folder of the examples: https://github.com/walidamriou/LokumGoLang/tree/master/Scripts  
 :warning: If there are any issues in the scripts of the examples write an issue in: [issues](https://github.com/walidamriou/LokumGoLang/issues "issues")   
 
 #### Contents of the examples:
@@ -71,10 +70,6 @@ https://lokumgolang.walidamriou.com/
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
 :red_circle: Email:  contact [at] walidamriou [dot] com    
-
-Don't forget there are more notes in the wiki:
-https://github.com/walidamriou/LokumGoLang/wiki
-
 
 ### Copyright CC 2020 Walid Amriou
 
