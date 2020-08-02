@@ -10,7 +10,7 @@
    
   Last update: August 2020
  ******************************************************************** 
-*/
+ */
 
 /*
 Go code is organize d into packages, which are similar to libraries or modules in other
