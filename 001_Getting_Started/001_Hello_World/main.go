@@ -1,5 +1,5 @@
 /*
- ******************************************************************** 
+ ********************************************************************
   Lokum GoLang
   To Learn Go Programming Language with small programs examples
 
@@ -7,10 +7,10 @@
   Github: https://github.com/walidamriou/LokumGoLang
   Copyright CC 2020 Walid Amriou
   This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-   
+
   Last update: August 2020
- ******************************************************************** 
- */
+ ********************************************************************
+*/
 
 /*
 Go code is organize d into packages, which are similar to libraries or modules in other
