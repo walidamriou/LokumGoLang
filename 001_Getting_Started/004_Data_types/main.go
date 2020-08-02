@@ -79,7 +79,7 @@ func main() {
 
 	// String
 	// Go uses by default UTF-8
-	a20 = "Hi, I'm Walid :D"
+	a20 = "Hi, I'm Walid :D "
 	fmt.Println("Text: ", a20, " and It's type is: ", reflect.TypeOf(a20))
 
 	// change a character from string
@@ -89,4 +89,11 @@ func main() {
 	a20_new := string(a20_edit) // Covert back to string type but with new valure
 	fmt.Println("Text: ", a20_new, " and It's type is: ", reflect.TypeOf(a20_new))
 
+	// add string to string
+	a20_add := a20 + a20_new
+	fmt.Println("Text: ", a20_add, " and It's type is: ", reflect.TypeOf(a20_add))
+
+	// Note: Go lang will tell you "don't use underscores in Go names" but for me I like
+	// this style of names, and I used it in all my codes :) so change it to what Go lang say
+	// but for me, I couldn't change it because it's my coding style :p
 }
