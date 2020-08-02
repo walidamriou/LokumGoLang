@@ -96,4 +96,14 @@ func main() {
 	// Note: Go lang will tell you "don't use underscores in Go names" but for me I like
 	// this style of names, and I used it in all my codes :) so change it to what Go lang say
 	// but for me, I couldn't change it because it's my coding style :p
+
+	// substring
+	a20_sub := a20[:8] + "olfa" // returns substring from index 0 to the index 8 with "olfa"
+	fmt.Println("Text: ", a20_sub, " and It's type is: ", reflect.TypeOf(a20_sub))
+
+	// multilines with string
+	text := `Hi mr developer you are learn
+	Golang`
+	fmt.Println("Text: ", text, " and It's type is: ", reflect.TypeOf(text))
+
 }
