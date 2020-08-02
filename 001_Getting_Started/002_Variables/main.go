@@ -41,6 +41,13 @@ var varAA = varA
 ///varBB = varB = 10 ; varCC=60
 var varBB, varCC = varB, 60
 
+// define by group
+var (
+	time = 1465
+	id   = 566
+	name = "olfa"
+)
+
 func main() {
 	// Any variable define here is a local variable
 
