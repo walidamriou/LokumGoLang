@@ -50,6 +50,7 @@ var a18 complex128 // the default and it has 64 bit real and 64 bit imaginary
 var a19 complex64  // 32 bit real and 32 bit imaginar
 
 // String
+// Go uses by default UTF-8
 var a20 string
 
 // Error
@@ -63,5 +64,29 @@ func main() {
 	// boolean has only value of "true" or "false" so we change a1 to "false" from "true"
 	a1 = false
 	fmt.Println("the a1 is: ", a1, " and It's type is: ", reflect.TypeOf(a1))
+
+	// Integers
+	a12 = 4294967295
+	fmt.Println("The a14 is: ", a12, " and It's type is: ", reflect.TypeOf(a12))
+
+	// Fractions (float)
+	a14 = 0.25
+	fmt.Println("The a14 is: ", a14, " and It's type is: ", reflect.TypeOf(a14))
+
+	// Complex numbers
+	a18 = 16 + 25i
+	fmt.Println("The a18 is: ", a18, " and It's type is: ", reflect.TypeOf(a18))
+
+	// String
+	// Go uses by default UTF-8
+	a20 = "Hi, I'm Walid :D"
+	fmt.Println("Text: ", a20, " and It's type is: ", reflect.TypeOf(a20))
+
+	// change a character from string
+	// you can't change a character from the string object and if you want to change it you will need this operation
+	a20_edit := []byte(a20)     // convert a10 to []byte type
+	a20_edit[0] = 'G'           // note that a20_edit is just a name :)
+	a20_new := string(a20_edit) // Covert back to string type but with new valure
+	fmt.Println("Text: ", a20_new, " and It's type is: ", reflect.TypeOf(a20_new))
 
 }
