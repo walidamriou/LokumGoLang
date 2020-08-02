@@ -22,6 +22,12 @@ const pi float32 = 3.1415926
 // define 2020 without type
 const year = 2020
 
+// define by group
+const (
+	today = "Monday"
+	hours = 24
+)
+
 func main() {
 	// we use %f to print float value
 	fmt.Printf("The pi is =%f \n", pi)
