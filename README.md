@@ -14,11 +14,12 @@ This mark :heavy_check_mark: mean the example is available.
 - 003 Constants :heavy_check_mark:      
 - 004 Data types :heavy_check_mark:  
 - 005 Operators :heavy_check_mark:
-- 007 Array  
-- 008 Slice  
-- 008 Map  
-- 009 New
-- 010 Control Statements     
+- 006 Collection data types
+  - 001 Array  
+  - 002 Slice  
+  - 003 Map  
+  - 004 New
+- 007 Control Statements     
   - 001 If  
   - 002 Goto  
   - 003 For  
