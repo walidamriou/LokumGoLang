@@ -20,8 +20,12 @@ var a = 10
 var b = 20
 var c = 30
 
+var e = byte(0b000110111)
+var f = byte(0b010010101)
+
 func main() {
 
+	// Arithmetic operators
 	// sum	integers, floats, complex values, strings
 	d1 := a + b
 	fmt.Println("a + b = ", d1)
@@ -42,14 +46,29 @@ func main() {
 	d5 := a % b
 	fmt.Println("a % b = ", d5)
 
-	/*
-		%	remainder	integers
-		&	bitwise AND
-		|	bitwise OR
-		^	bitwise XOR
-		&^	bit clear (AND NOT)
-		<<	left shift	integer << unsigned integer
-		>>	right shift	integer >> unsigned integer
-	*/
+	// Logical operators
+	// AND
+	d6 := 1 & 0
+	fmt.Println("1 AND 0 = ", d6)
+
+	// OR
+	d7 := 1 | 0
+	fmt.Println("1 OR 0 = ", d7)
+
+	// bitwise XOR
+	d8 := 1 ^ 0
+	fmt.Println("1 XOR 0 = ", d8)
+
+	// AND NOT
+	d9 := 1 &^ 0
+	fmt.Println("1 AND NOT 0 = ", d9)
+
+	// left shift
+	d10 := 1 << 0
+	fmt.Println("1 left shift 0 = ", d10)
+
+	// right shift
+	d11 := 1 >> 0
+	fmt.Println("1 right shift 0 = ", d11)
 
 }
