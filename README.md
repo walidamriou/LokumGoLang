@@ -18,7 +18,6 @@ This mark :heavy_check_mark: mean the example is available.
 - 007 Slice  
 - 008 Map  
 - 009 New
-
 - 010 Control Statements     
   - 001 If  
   - 002 Goto  
