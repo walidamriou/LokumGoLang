@@ -13,9 +13,10 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Variables :heavy_check_mark:    
 - 003 Constants :heavy_check_mark:      
 - 004 Data types :heavy_check_mark:  
-- 005 iota enumerate   
-- 006 Array  
-- 007 Slice  
+- 005 Operators
+- 006 iota enumerate   
+- 007 Array  
+- 008 Slice  
 - 008 Map  
 - 009 New
 - 010 Control Statements     
