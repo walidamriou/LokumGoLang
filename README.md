@@ -47,7 +47,7 @@ This mark :heavy_check_mark: mean the example is available.
 - 003 Use pointer as receiver  
 - 004 Inhertance of method  
 
-*__004 Extra__
+* __004 Extra__
 - 001 iota enumerate   
 
 ...
