@@ -14,7 +14,6 @@ This mark :heavy_check_mark: mean the example is available.
 - 003 Constants :heavy_check_mark:      
 - 004 Data types :heavy_check_mark:  
 - 005 Operators :heavy_check_mark:
-- 006 iota enumerate   
 - 007 Array  
 - 008 Slice  
 - 008 Map  
@@ -47,6 +46,10 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Custom data types  
 - 003 Use pointer as receiver  
 - 004 Inhertance of method  
+
+*__004 Extra__
+- 001 iota enumerate   
+
 ...
 * __003 web technologies__
 - 001 Basic web server  
