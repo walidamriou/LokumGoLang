@@ -13,13 +13,13 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Variables :heavy_check_mark:    
 - 003 Constants :heavy_check_mark:      
 - 004 Data types :heavy_check_mark:  
-- 005 Define by group  
-- 006 iota enumerate   
-- 007 Array  
-- 008 Slice  
-- 009 Map  
-- 010 New  
-- 011 Control Statements     
+- 005 iota enumerate   
+- 006 Array  
+- 007 Slice  
+- 008 Map  
+- 009 New
+
+- 010 Control Statements     
   - 001 If  
   - 002 Goto  
   - 003 For  
