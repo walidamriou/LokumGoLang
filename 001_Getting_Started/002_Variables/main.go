@@ -41,6 +41,13 @@ var varAA = varA
 ///varBB = varB = 10 ; varCC=60
 var varBB, varCC = varB, 60
 
+// Walid here is public because any variable that begin with a capital letter means
+// it is public (will be exported)
+var Walid = "my name"
+
+// any variable that begin with a lower letter means it is private
+var olfa = "my friend name"
+
 // define by group
 var (
 	time = 1465
