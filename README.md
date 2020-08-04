@@ -15,7 +15,7 @@ This mark :heavy_check_mark: mean the example is available.
 - 004 Data types :heavy_check_mark:  
 - 005 Operators :heavy_check_mark:
 - 006 Collection data types
-  - 001 Array  
+  - 001 Array  :heavy_check_mark:  
   - 002 Slice  
   - 003 Map  
   - 004 New
