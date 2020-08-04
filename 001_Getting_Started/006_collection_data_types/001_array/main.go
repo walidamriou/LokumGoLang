@@ -31,7 +31,27 @@ func main() {
 	fmt.Println("The last element of the array 2 is: ", arr2[3])
 
 	// defin array without length
-	arr3 := [...]int{12, 22, 36}
+	arr3 := [...]int{12, 22, 36} // Golang calculates the length and you can't change it after that (this is not a dynamic)
 	fmt.Println("The first element of the array 3 is: ", arr3[0])
 	fmt.Println("The last element of the array 3 is: ", arr3[2])
+
+	// array multi-dimensional
+	/*
+		example of two dimensionals
+		   0  1
+		0 12 54
+		1 25 65
+		2 85 20
+
+		[0][0] is 12
+		[2][1] is 20
+	*/
+	arr4 := [3][2]int{[2]int{12, 54}, [2]int{25, 65}, [2]int{85, 20}}
+	fmt.Println("The first element of the array 4 is: ", arr4[0][0])
+	fmt.Println("The last element of the array 4 is: ", arr4[2][1])
+
+	// other method
+	arr5 := [3][2]int{{12, 54}, {25, 65}, {85, 20}}
+	fmt.Println("The first element of the array 5 is: ", arr5[0][0])
+	fmt.Println("The last element of the array 5 is: ", arr5[2][1])
 }
